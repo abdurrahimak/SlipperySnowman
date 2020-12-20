@@ -1,2 +1,2 @@
 # SlipperySnowman
-Slippery Snowman - GFA Winter Gamejam
+Slippery Snowman game for GFA Winter Game Jam
